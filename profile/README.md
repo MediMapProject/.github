@@ -14,36 +14,60 @@ An interactive hospital navigation platform that helps patients quickly find hos
 
 ##  What is MediMap?
 
-MediMap is a web platform that simplifies hospital navigation by providing an interactive digital map of healthcare facilities.
+MediMap is an interactive web platform designed to simplify navigation inside hospitals.
 
-Instead of searching through hospital corridors or asking for directions, patients and visitors can quickly find the exact location they need—from buildings and floors to departments, doctors and rooms.
+After selecting a hospital, users can explore its internal structure through interactive floor maps and quickly find buildings, departments, doctors and rooms—all from a single, intuitive interface.
+
+Whether visiting a hospital for the first time or returning for an appointment, MediMap helps users reach their destination quickly and with confidence.
 
 ---
 
 ##  The Problem
 
-Hospitals are often large and complex, making them difficult to navigate. Patients and visitors frequently waste time trying to locate the correct building, department, doctor's office or examination room.
+Hospitals are often large and complex, consisting of multiple buildings, floors, departments and hundreds of rooms. Patients and visitors frequently struggle to find the correct destination, especially in unfamiliar hospitals.
 
-This can lead to:
-- Longer waiting times
-- Increased stress and confusion
-- Missed or delayed appointments
-- Additional workload for hospital staff who must repeatedly provide directions
+As a result:
+
+- Patients waste valuable time searching for the right location.
+- Visitors often become confused or stressed.
+- Appointments may be delayed because people cannot find the correct room.
+- Hospital staff spend a significant amount of time providing directions instead of focusing on patient care.
 
 ---
 
 ##  The Solution
 
-MediMap centralizes hospital information into a single interactive platform.
+MediMap provides every hospital with its own interactive digital navigation platform.
 
-Users simply select a hospital and can:
+Users simply select a hospital and can instantly:
 
--  Explore all hospital buildings
--  View every floor
--  Browse departments
--  Search for doctors
+-  Browse all hospital buildings
+-  Explore every floor through interactive maps
+-  View departments
+-  Find doctors and their assigned departments
 -  Locate rooms
--  Find information instantly through a unified search
--  Access everything from any device
+-  Search information from one place
 
-By making hospital navigation simple and intuitive, MediMap improves the experience for both patients and healthcare staff.
+Everything is accessible through a modern, mobile-friendly web application, making hospital navigation faster, easier and more intuitive.
+
+---
+
+##  Key Features
+
+-  Hospital selection
+-  Building overview
+-  Interactive floor maps
+-  Department directory
+-  Doctor directory
+-  Room information
+-  Fast search
+-  English & Romanian support
+-  Responsive design
+
+---
+
+##  Our Mission
+
+Our mission is to improve the hospital experience by making navigation simple, accessible and stress-free.
+
+MediMap helps patients and visitors spend less time searching for their destination and more time focusing on what truly matters—their healthcare.
